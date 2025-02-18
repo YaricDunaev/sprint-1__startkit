@@ -111,6 +111,7 @@ div {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
+  color:#2f80ed;
 }
 .two-columns__main-text {
   min-width: 784px;
@@ -269,7 +270,8 @@ div {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  color:#2f80ed
+  color:#2f80ed;
+  text-decoration: none;
 }
 
 
